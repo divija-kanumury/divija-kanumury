@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @divija-kanumury
-- 🌱 I’m currently a masters student at university of florida
+- 🐊 Masters student at University of Florida
 
 <!---
 divija-kanumury/divija-kanumury is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
